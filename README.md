@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Paola!
 
-<!--
-**paola-ap/paola-ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+## Table of Contents
+- [Python](#python)
+- [SQL](#sql)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Python
+
+| Project | Skills | Libraries | Description |
+|---------|--------|-----------|-------------|
+
+***
+## SQL
+
+| Project | Skills | Description |
+|---------|--------|-------------|
