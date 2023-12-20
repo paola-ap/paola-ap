@@ -19,4 +19,4 @@
 
 | Project | Description | Skills |
 |---------|-------------|--------|
-| 8-Week SQL Challenge | The solutions to the SQL case studies featured in the [8-Week SQL Challenge]((https://8weeksqlchallenge.com) from Data with Danny | SQL Query Writing, Data Analysis |
+| 8-Week SQL Challenge | The solutions to the SQL case studies featured in the [8-Week SQL Challenge](https://8weeksqlchallenge.com) from Data with Danny | SQL Query Writing, Data Analysis |
