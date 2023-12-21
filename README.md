@@ -4,7 +4,7 @@
 
 My journey in the tech world, anchored by a Master's degree in computer engineering and professional experience as a software engineer and program manager, has steered me towards the fascinating field of data analytics. This background has provided me with a multifaceted understanding of technology and its application in data-driven environments.
 
-The projects featured in my portfolio underscore my commitment to leveraging data for strategic decision-making and innovative problem-solving.
+The projects featured in my portfolio underscore my diverse range of data analysis skills and passion for solving complex problems. 
 
 ## Table of Contents
 - [Python](#python)
